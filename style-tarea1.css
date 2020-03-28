@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    background-color: black;
+}
+
+body{
+    text-align: center;
+}
+
+
+.logo{
+    margin: 4rem;
+    border: 1px dashed white;
+}
+
+
+img{
+    text-align: center;
+    margin: 100px;
+    border-radius: 50%;
+}
+   
